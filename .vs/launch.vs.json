@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "C:\\Users\\dell\\source\\repos\\PhotoViewer\\PhotoViewer",
+      "project": ""
+    },
+    {
+      "type": "default",
+      "project": "",
+      "name": "C:\\Users\\dell\\source\\repos\\PhotoViewer\\PhotoViewer(1)"
+    }
+  ]
+}
